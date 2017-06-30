@@ -1,0 +1,27 @@
+{
+  "name": "internet-of-water-things-smart-h2o-bot",
+  "version": "0.0.1",
+  "description": "Smart H2O Bot: Conserving Every Drop of Water Intelligently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/59DAYSOFCODE/internet-of-water-things-smart-h2o-bot.git"
+  },
+  "keywords": [
+    "#50daysofcode",
+    "h2o",
+    "water",
+    "IoT",
+    "AI",
+    "Here2Code"
+  ],
+  "author": "Team Here2cOde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/59DAYSOFCODE/internet-of-water-things-smart-h2o-bot/issues"
+  },
+  "homepage": "https://github.com/59DAYSOFCODE/internet-of-water-things-smart-h2o-bot#readme"
+}
