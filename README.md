@@ -5,7 +5,6 @@
 
 # HydroFlow Solutions: Conserving water intelligently by bringing individual awareness to water usage.
 
-## About
 Hydroflow is a solution designed to help conserve water intelligently by bringing individual awareness to water usage. The goal is to provide an easy to implement solution that will give customers information that will help them to make smarter decisions regarding water usage.
 
 Saving water intelligently! Our IoWT technology provides real-time Water usage monitoring and waste detection. Water Usage Data and Visualization is fully designed to motivate Water conservation and increase Water efficiency in the urban and agricultural sectors. Our AI solution further Automates Water Conservation. Yes, saving water can also be fun and incentivizing with our gamification system!
