@@ -17,6 +17,13 @@ HydroFlow is an IoWT and AI solution observing the real-time household water usa
 
 Technologies: IoT sensors, AWS Cloud computing services (i.e. IoT Gateway, API Gateway, Dynamodb, and Lambda), Data Analytics, AI (tentatively Rule engine), Mobile app and Dashboard.
 
+![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUS0RIVnFwUS1Ya1lOOGZHWE44VUVia0tINTg0/view?usp=sharing)
+![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUMmRxYVRVaXc2M1pWeUJkNU5TckFvWERJYUZJ/view?usp=sharing)
+![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUOUkyWGRibW12S1kxOTQwX2x6aHhaRXZfUk5j/view?usp=sharing)
+![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUUUROUGpKTFdrSks0U0IyTmN2QUt2NTFqUEdr/view?usp=sharing)
+![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUNHc1aUxoMEVONGE0Q01zdW9GajNlTDRwcnJr/view?usp=sharing)
+![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUN1k3NUxIdGdVZHFvX2R4djEyaC1EMF83VWs4/view?usp=sharing)
+
 ## Team Here2cOde
 * Max Tsai <mt8168@gmail.com>, Architecture/Innovation. (_#59DOC PoC_)
 * Bryan Alvarado <bryanalvarado22@gmail.com>, IoT Solution Development
