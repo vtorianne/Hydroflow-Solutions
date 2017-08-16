@@ -1,0 +1,17 @@
+> use deviceDB
+switched to db deviceDB
+> show collections;
+device
+> db.device.find();
+{ "_id" : ObjectId("5976c77cbc50186ca2d44c11"), "deviceID" : "00000000e215b4a2", "category" : "bathroom", "location" : "first_floor_bathtub", "parent" : "none" }
+{ "_id" : ObjectId("59828ed706c6e73b7671eb03"), "deviceID" : "KITCH-001", "category" : "Kitchen", "location" : "Main kitchen", "parent" : "none" }
+{ "_id" : ObjectId("59828f6506c6e73b7671eb04"), "deviceID" : "BATHD-001", "category" : "Bathroom", "location" : "Downstairs bathroom", "parent" : "none" }
+{ "_id" : ObjectId("59828f8506c6e73b7671eb05"), "deviceID" : "BATHU-001", "category" : "Bathroom", "location" : "Upstairs bathroom", "parent" : "none" }
+{ "_id" : ObjectId("59828fca06c6e73b7671eb06"), "deviceID" : "WASH-001", "category" : "Laundry", "location" : "Laundry room", "parent" : "none" }
+{ "_id" : ObjectId("59828ff506c6e73b7671eb07"), "deviceID" : "DISWASH-001", "category" : "Dishwasher", "location" : "Kitchen dishwasher", "parent" : "none" }
+{ "_id" : ObjectId("599240dff49bfd665c10f310"), "deviceID" : "fgg", "category" : "Other", "location" : "cvggg", "parent" : "DISWASH-001" }
+{ "_id" : ObjectId("599240e3f49bfd665c10f311"), "deviceID" : "fgg", "category" : "Other", "location" : "cvggg", "parent" : "DISWASH-001" }
+{ "_id" : ObjectId("599240e7f49bfd665c10f312"), "deviceID" : "fgg", "category" : "Other", "location" : "cvggg", "parent" : "DISWASH-001" }
+{ "_id" : ObjectId("5992f88b216ffe58a5fa2399"), "deviceID" : "hh", "category" : "Laundry", "location" : "gh", "parent" : "WASH-001" }
+{ "_id" : ObjectId("5992f949216ffe58a5fa239a"), "deviceID" : "gfg", "category" : "Bathroom", "location" : "hhh", "parent" : "None" }
+> 

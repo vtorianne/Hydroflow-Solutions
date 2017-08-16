@@ -1,0 +1,2 @@
+measurement,tags|fields|ts
+waterflow,category=$catID,deviceID=$deviceSN,location=$place,parent=$pdeviceID microRate=##ml 1493668800000000000
