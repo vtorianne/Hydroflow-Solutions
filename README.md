@@ -38,7 +38,7 @@ Scales the system to establish Data Warehouses for further compiling and dissemi
 
 *** 
 
-<img src="https://user-images.githubusercontent.com/812383/29392083-6c3bff6e-82b0-11e7-9bf6-87c9a007fc95.png" height="320px"/> | <img src="https://user-images.githubusercontent.com/812383/29392078-6c257f50-82b0-11e7-97c1-c04309c4dd37.png" height="320px"/> | <img src="https://user-images.githubusercontent.com/812383/29392079-6c32424e-82b0-11e7-868a-6162e3ee3e47.png" height="320px"/>
+<img src="https://user-images.githubusercontent.com/812383/29392083-6c3bff6e-82b0-11e7-9bf6-87c9a007fc95.png" height="320px"/> | <img src="https://user-images.githubusercontent.com/812383/29392082-6c3b27d8-82b0-11e7-948b-ce11bc30a4be.png" height="320px"/> | <img src="https://user-images.githubusercontent.com/812383/29392079-6c32424e-82b0-11e7-868a-6162e3ee3e47.png" height="320px"/>
 
 
 ## Team Here2cOde
