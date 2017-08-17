@@ -13,7 +13,7 @@ Saving water intelligently! Our IoWT technology provides real-time Water usage m
 
 ![Image of HydroFlow Architecture](https://docs.google.com/drawings/d/11XL4KaD2ECeJ54wyeqwTwRAOnhjYeEEpmjEvCjT7IhE/pub?w=960&amp;h=720)
 
-HydroFlow.Solutions is an Internet of Water Things and Predictive Analytics platform observing the real-time water flow and providing intelligent actions to boost water conservation from each individual home to the community and to the world. 
+HydroFlow.Solutions is an Internet of Water Things and Analytics platform observing the real-time water flow and providing intelligent actions to boost water conservation from each individual home to the community and to the world. 
 
 ### IoWT 
 The frontend component integrates Water Flow sensors and Arduino to provide realtime water flow data to the HydroFlow Agent
