@@ -43,10 +43,11 @@ Scales the system to establish Data Warehouses for further compiling and dissemi
 
 ## Team Here2cOde
 * Max Tsai <mt8168@gmail.com>, Architecture/Innovation. (_#59DOC PoC_)
+
 * Bryan Alvarado <bryanalvarado22@gmail.com>, IoT Solution Development
-* Brian Beamer <bebeamer@gmail.com>, Marketing/Product Design
-* Jay Castro <jaycastro90@gmail.com>, Digital Media/Product Design
-* Victoria Fall <vtorianne@gmail.com>, Mobile Solution Development
+* Brian Beamer <bebeamer@gmail.com>, Marketing/Product Strategist
+* Jay Castro <jaycastro90@gmail.com>, Product/UX Design & Digital Media
+* Victoria Fall <vtorianne@gmail.com>, Mobile Solution/Software Development
 
 ## Updates
 Visit [www.hydroflow.solutions](http://www.hydroflow.solutions.com/) website for updates.
