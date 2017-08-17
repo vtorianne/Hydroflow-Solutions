@@ -15,22 +15,30 @@ Saving water intelligently! Our IoWT technology provides real-time Water usage m
 
 HydroFlow.Solutions is an Internet of Water Things and Predictive Analytics platform observing the real-time water flow and providing intelligent actions to boost water conservation from each individual home to the community and to the world. 
 
-### Technologies:
+### IoWT 
+The frontend component integrates Water Flow sensors and Arduino to provide realtime water flow data to the HydroFlow Agent
 
-- *IoWT* component integrates Water Flow sensors and Arduino to provide realtime water flow data to the HydroFlow Agent
-- *HydroFlow Agent* is the IoWT gateway that provides REST API endpoints, transforms data, and loads water information into Time Series DBMS. 
-- *HydroFlow Apps* provides a highly friendly Mobile UX for users to configure devices and to get access to dashboards. There are 3 apps for Smart Home, Agriculture, and I-IoT (Industrial).
-- *HydraFlow Dashboard* is designed to provide intuitive and comprehensive graphical water flow information for overall usage and device-location-category based displays. 
-- *HydroFlow Water Intelligence* allows configurable rules to provide realtime alerts and designed actions (potentially via IFTTT to integrate with other IoT devices)
-- *HydroFlow ETL* scales the system to establish Data Warehouses for further compiling and disseminating the Big Water Data, i.e. National Water Data repository, for advanced researches.
+### HydroFlow Agent
+The IoWT gateway that provides REST API endpoints, transforms data, and loads water information into Time Series DBMS. 
+
+### HydroFlow Apps
+A collection of Mobile Apps provide highly friendly UX for users to configure devices and to get access to dashboards. There are 3 apps for Smart Home, Agriculture, and I-IoT (Industrial).
+
+### HydraFlow Dashboard
+Designed to provide intuitive and comprehensive graphical water flow information for overall usage and device-location-category based displays. 
+
+### HydroFlow Water Intelligence
+Configurable rules to provide realtime alerts and designed actions (potentially via IFTTT to integrate with other IoT devices)
+
+### HydroFlow ETL
+
+Scales the system to establish Data Warehouses for further compiling and disseminating the Big Water Data, i.e. National Water Data repository, for advanced researches.
 
 <img src="https://user-images.githubusercontent.com/812383/29392078-6c257f50-82b0-11e7-97c1-c04309c4dd37.png" width="420px"/>
 
 *** 
 
-<img src="https://user-images.githubusercontent.com/812383/29392083-6c3bff6e-82b0-11e7-9bf6-87c9a007fc95.png" height="320px"/>
-<img src="https://user-images.githubusercontent.com/812383/29392078-6c257f50-82b0-11e7-97c1-c04309c4dd37.png" height="320px"/>
-<img src="https://user-images.githubusercontent.com/812383/29392079-6c32424e-82b0-11e7-868a-6162e3ee3e47.png" height="320px"/>
+<img src="https://user-images.githubusercontent.com/812383/29392083-6c3bff6e-82b0-11e7-9bf6-87c9a007fc95.png" height="320px"/> | <img src="https://user-images.githubusercontent.com/812383/29392078-6c257f50-82b0-11e7-97c1-c04309c4dd37.png" height="320px"/> | <img src="https://user-images.githubusercontent.com/812383/29392079-6c32424e-82b0-11e7-868a-6162e3ee3e47.png" height="320px"/>
 
 
 ## Team Here2cOde
