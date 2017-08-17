@@ -43,7 +43,7 @@ Scales the system to establish Data Warehouses for further compiling and dissemi
 
 ### Screen Captures - Dashboard
 
-<img src="https://user-images.githubusercontent.com/812383/29393224-7dc76bb8-82b7-11e7-91fc-60b40f9d4642.png" width="480px"/> 
+<img src="https://user-images.githubusercontent.com/812383/29393224-7dc76bb8-82b7-11e7-91fc-60b40f9d4642.png" /> 
 
 <img src="https://user-images.githubusercontent.com/812383/29393225-7dcc388c-82b7-11e7-8299-21c6e344460b.png" width="320px"/> | <img src="https://user-images.githubusercontent.com/812383/29393226-7dce74ee-82b7-11e7-9c17-714cef0a293b.png" width="320px"/>
 
