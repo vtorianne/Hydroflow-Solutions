@@ -17,13 +17,11 @@ HydroFlow is an IoWT and AI solution observing the real-time household water usa
 
 Technologies: IoT sensors, AWS Cloud computing services (i.e. IoT Gateway, API Gateway, Dynamodb, and Lambda), Data Analytics, AI (tentatively Rule engine), Mobile app and Dashboard.
 
-<img src="https://user-images.githubusercontent.com/812383/29392083-6c3bff6e-82b0-11e7-9bf6-87c9a007fc95.png" width="420px"/>
-![Image Screenshot](https://drive.google.com/uc?export=view&id=0B-T_9W9HDTJUS0RIVnFwUS1Ya1lOOGZHWE44VUVia0tINTg0)
-![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUMmRxYVRVaXc2M1pWeUJkNU5TckFvWERJYUZJ/view?usp=sharing)
-![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUOUkyWGRibW12S1kxOTQwX2x6aHhaRXZfUk5j/view?usp=sharing)
-![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUUUROUGpKTFdrSks0U0IyTmN2QUt2NTFqUEdr/view?usp=sharing)
-![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUNHc1aUxoMEVONGE0Q01zdW9GajNlTDRwcnJr/view?usp=sharing)
-![Image Screenshot](https://drive.google.com/file/d/0B-T_9W9HDTJUN1k3NUxIdGdVZHFvX2R4djEyaC1EMF83VWs4/view?usp=sharing)
+### Screenshot
+<img src="https://user-images.githubusercontent.com/812383/29392083-6c3bff6e-82b0-11e7-9bf6-87c9a007fc95.png" width="320px"/>
+<img src="https://user-images.githubusercontent.com/812383/29392078-6c257f50-82b0-11e7-97c1-c04309c4dd37.png" width="320px"/>
+<img src="https://user-images.githubusercontent.com/812383/29392079-6c32424e-82b0-11e7-868a-6162e3ee3e47.png" width="320px"/>
+
 
 ## Team Here2cOde
 * Max Tsai <mt8168@gmail.com>, Architecture/Innovation. (_#59DOC PoC_)
