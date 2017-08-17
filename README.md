@@ -43,7 +43,6 @@ Scales the system to establish Data Warehouses for further compiling and dissemi
 
 ## Team Here2cOde
 * Max Tsai <mt8168@gmail.com>, Architecture/Innovation. (_#59DOC PoC_)
-
 * Bryan Alvarado <bryanalvarado22@gmail.com>, IoT Solution Development
 * Brian Beamer <bebeamer@gmail.com>, Marketing/Product Strategist
 * Jay Castro <jaycastro90@gmail.com>, Product/UX Design & Digital Media

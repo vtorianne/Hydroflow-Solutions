@@ -1,0 +1,2 @@
+- data-generator: a utility for data generator
+- schemas: iowt data (water flow information) and meta data (device information)
