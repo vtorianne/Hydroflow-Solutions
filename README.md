@@ -1,7 +1,7 @@
 #internet-of-water-things #59daysofcode
 ***
 
-[![Image of HydroFlow](http://www.hydroflow.solutions/img/menulogo.png)](http://www.hydroflow.solutions/)
+![HydroFlow Logo](03.%20hydroflowApps/Home_Edition/Hydroflow/images/signin_inhome.png)
 
 # HydroFlow Solutions: Conserving water intelligently by bringing individual awareness to water usage.
 
